@@ -1,0 +1,6 @@
+# This is an implicit value, here for clarity
+--index https://pypi.python.org/simple/
+
+Appium-Python-Client==0.14
+enum34==1.0.4
+selenium==2.42.1
